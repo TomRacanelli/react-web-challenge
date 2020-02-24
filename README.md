@@ -9,7 +9,8 @@ This is React web application challenge. In attached Picture, you can see what y
 * Testability
 * Documentation & Comment
 * Add README.md & Write down some challenge problems processing your project.
-## Extra details
+## Technical Dscription
+### Details
 * You don’t have to create [React App](https://reactjs.org/docs/create-a-new-react-app.html). We will provide sample project. 
     
 ### This Screen should display: 
@@ -23,11 +24,10 @@ Please check this Picture.
 
 ![Testing Image](https://github.com/WilliamEven/React_Extension_Challenge/blob/master/2020-02-21_12-24-10.png)
 
-## Estimating Time
+## Estimate
 5 hours
 
 ## Delivery
-After finish project, share your git repo url to us.
-
+Share your git repo url to us.
 
 Thanks
