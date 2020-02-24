@@ -28,6 +28,7 @@ Please check this Picture.
 5 hours
 
 ## Delivery
-Share your git repo url to us.
+* Step by step installation guide including unit test steps in Readme.
+* Share your git repo url to us.
 
 Thanks
