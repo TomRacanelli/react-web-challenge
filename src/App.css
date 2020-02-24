@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 4vmin;
   pointer-events: none;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,6 +27,25 @@
 .App-link {
   color: #61dafb;
 }
+
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #3f9f !important;
+}
+.MuiGrid-item {
+  padding: 0 !important;
+}
+.MuiListItem-gutters {
+  padding-top: 2px !important;
+  padding-left: 46px !important;
+  padding-bottom: 2px !important;
+}
+.MuiListItemIcon-root {
+  min-width: 30px !important;
+  position: absolute !important;
+  top: 5px;
+  left: 16px;
+}
+
 
 @keyframes App-logo-spin {
   from {

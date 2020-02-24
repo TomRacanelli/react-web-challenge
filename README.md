@@ -9,11 +9,10 @@ This is React web application challenge. In attached Picture, you can see what y
 * Testability
 * Documentation & Comment
 * Add README.md & Write down some challenge problems processing your project.
-## Technical Dscription
-### Details
+## Extra details
 * You don’t have to create [React App](https://reactjs.org/docs/create-a-new-react-app.html). We will provide sample project. 
     
-### This Screen should display
+### This Screen should display: 
 * You have to make button in header bar but don’t need click event
 * You can see 2 sections in Content but we don’t need “Croptomize Free” section.
 * In the "Croptomize Pro" section, the price per month has to change according to the size of "Number of Seats". In a nutshell, do not use this part as a picture.
@@ -24,11 +23,11 @@ Please check this Picture.
 
 ![Testing Image](https://github.com/WilliamEven/React_Extension_Challenge/blob/master/2020-02-21_12-24-10.png)
 
-## Estimate
+## Estimating Time
 5 hours
 
 ## Delivery
-* Step by step installation guide including unit test steps in Readme.
-* Share your git repo url to us.
+After finish project, share your git repo url to us.
+
 
 Thanks
